@@ -1,0 +1,10 @@
+pandas==1.5.3
+numpy==1.24.2
+matplotlib==3.7.1
+scikit-learn==1.2.2
+torch==2.0.1
+transformers==4.28.1
+alpaca-trade-api==2.3.0
+pmdarima==2.0.3
+statsmodels==0.14.0
+ta-lib==0.4.0
