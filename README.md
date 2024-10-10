@@ -1,4 +1,3 @@
-readme_content = """
 # Trading Algorithms and Data Enhancement Tools
 
 This repository contains a collection of advanced trading algorithms and tools for financial data analysis. These scripts are designed to interact with APIs (such as Alpaca) and utilize machine learning models for forecasting stock prices and making trading decisions.
